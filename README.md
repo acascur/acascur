@@ -3,5 +3,6 @@
 ## Welcome to my GitHub profile, hope you find interesting things in it.  
 
 <p align="center">
-           <img width="820" height="390" src=https://user-images.githubusercontent.com/127188733/224126679-5a57066f-435e-4b3f-a156-97d1aeedf7d6.jpg>
+           <img width="1591" height="412" src=https://user-images.githubusercontent.com/127188733/224253474-1472cc57-d292-4687-97fa-131a7fb02196.jpg>
 </p>
+
