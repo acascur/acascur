@@ -59,10 +59,16 @@ def about_me():
            
 </div>
 
+
+<h3 align="center">Contact with me :love_letter:</h3>
+
 <div align="center">
            
-![acascur@outlook.es](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
+[![acascur@outlook.es](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:acascur@outlook.es)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
+           
 </div>
 
 ```python
@@ -72,12 +78,24 @@ def about_me():
 
 <h3 align="center">Some stats :bar_chart:</h3>
 
-<div align="center">
-           
-![acascur's github stats](https://github-readme-stats.vercel.app/api?username=acascur&theme=tokyonight)
+<div dir="auto" align="center">
 
-![acascur's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acascur&theme=tokyonight)
-  
+<img src="https://github-readme-stats.vercel.app/api?username=acascur&theme=tokyonight" style="max-width: 100%;" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acascur&theme=tokyonight" style="max-width: 100%;" height="180em">
+           
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
