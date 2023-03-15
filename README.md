@@ -64,6 +64,8 @@ def about_me():
 
 ```
 
+<h3 align="center">Some stats :bar_chart:</h3>
+
 <div align="center">
            
 ![acascur's github stats](https://github-readme-stats.vercel.app/api?username=acascur&theme=tokyonight)
