@@ -1,6 +1,6 @@
-# Hello world. I'm Arturo. 
-           
-## Welcome to my GitHub profile, hope you find interesting things in it.  
+<h1 align="center">Hello world. I'm Arturo</h1>
+
+<h2 align="center">Welcome to my GitHub profile, hope you find interesting things in it</h2>
 
 <p align="center">
            <img width="912" height="360" src=https://user-images.githubusercontent.com/127188733/224301441-89506049-c588-469c-aa87-1cc6d728fd0a.jpg>
@@ -16,7 +16,10 @@ def about_me():
    master_degree = "Condensed Matter Physics, University of Santiago de Compostela"   
 ```
 
-### Languages and technologies I have more experience :star:
+<h3 align="center">Languages and technologies I have more experience :star:</h3>
+
+<div align="center">
+           
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -31,14 +34,27 @@ def about_me():
 ![Visual studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+           
+</div>
 
-### Languages and technologies I'm learning :muscle:
+<h3 align="center">Languages and technologies I'm learning :muscle:</h3>
 
+<div align="center">
+           
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### Languages and technologies I sometimes work with :eyes:
+
+</div>
+
+<h3 align="center">Languages and technologies I sometimes work with :eyes:</h3>
+
+<div align="center">
 
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+           
+</div>
