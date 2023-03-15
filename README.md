@@ -71,11 +71,6 @@ def about_me():
            
 </div>
 
-```python
-
-
-```
-
 <h3 align="center">Some stats :bar_chart:</h3>
 
 <div dir="auto" align="center">
