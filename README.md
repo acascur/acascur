@@ -73,7 +73,12 @@ def about_me():
 
 <h3 align="center">Some stats :bar_chart:</h3>
 
+<div dir="auto" align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=acascur&show_icons=true&theme=tokyonight" style="max-width: 100%;" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acascur&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%;" height="180em">
+           
+</div>
 
 
 
