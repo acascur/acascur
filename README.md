@@ -66,8 +66,7 @@ def about_me():
 
 <div align="center">
 
-![acascur's github stats](https://github-readme-stats.vercel.app/api?username=acascur&theme=blue-green)
-           
+![acascur's github stats](https://github-readme-stats.vercel.app/api?username=acascur&theme=blue-green)       
 ![acascur's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acascur&theme=blue-green)
-           
+ 
 </div>
