@@ -35,7 +35,7 @@ def about_me():
            
 </div>
 
-<h3 align="center">Languages and technologies I'm learning :muscle:</h3>
+<h3 align="center">Languages and technologies I'm improving :muscle:</h3>
 
 <div align="center">
            
